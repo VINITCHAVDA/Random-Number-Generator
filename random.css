@@ -1,0 +1,45 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-image: url(https://images.wallpapersden.com/image/download/artistic-night-8k_bWZla2yUmZqaraWkpJRsa21lrWloZ2U.jpg);
+  background-size: 100%;
+}
+
+.main {
+  border: 1px solid rgb(244, 225, 225);
+  width: 40vw;
+  height: 40vh;
+  margin-top: 2rem;
+  margin-left: 4rem;
+  box-shadow: 5px 5px 5px 5px black;
+  color: white;
+  text-align: center;
+}
+
+.box {
+  margin-top: 10%;
+}
+
+.box h1 {
+  font-size: 200%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#btn {
+  text-align: center;
+  width: 20vw;
+  height: 5vh;
+  border-radius: 10px;
+  margin-left: 5rem;
+  cursor: pointer;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 130%;
+}
+
+#p1 {
+  font-size: 30px;
+  background-color: rgba(111, 108, 108, 0.539);
+  margin-top: 15%;
+}
